@@ -25,7 +25,7 @@ public class Main {
 
     int age;
 
-    age = 16;   // assign the value 25 to the variable age
+    age = 16;   // assign the value 16 to the variable age
 
     System.out.println("You are " + age + " years old.");
 
