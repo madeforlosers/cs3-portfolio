@@ -3,9 +3,14 @@ import java.util.Scanner;
 public class Madlib {
 
 	public static void main(String[] args) {
+		// to the public:
 		// SHUT UP I RUSHED THIS AND IT WASN'T INTENDED TO BE SEEN
 		// I swear I code better than this
 		// -angel
+
+
+		// to Mr C.:
+		// im sorry mr c i have no idea how to comment this :(
 	     Scanner input = new Scanner(System.in);
 	     System.out.println("Enter a first name: ");
 	     String firstName = input.nextLine();
